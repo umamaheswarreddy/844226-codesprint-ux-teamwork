@@ -1,0 +1,18 @@
+My associate id:
+844226
+Other team members:
+844236, 844271, 844224
+Team lead:
+844226
+My Role in team:
+1. To develop homepage and contact us component
+My development files:
+1. add appointment form.html
+2. add appointment form.css
+3. form validations Validations using form Module As well as regular expression
+I was strong in:
+1.  Forms validations using form module
+2. app routing
+3. Documentation
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
